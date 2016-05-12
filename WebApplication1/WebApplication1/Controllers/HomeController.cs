@@ -14,5 +14,10 @@ namespace WebApplication1.Controllers
 
             return View();
         }
+
+        public void Test()
+        {
+            String s = "this is a test";
+        }
     }
 }
